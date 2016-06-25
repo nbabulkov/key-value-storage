@@ -1,0 +1,1 @@
+ A simple key-value stograge for the course Data Strutures and Algorithms in FMI, Sofia University.
